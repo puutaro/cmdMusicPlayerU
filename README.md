@@ -11,7 +11,8 @@ Music player  (**Ubuntu**) @puutaro
 
 Table of Contents
 -------
-<!-- vim-markdown-toc GFM --> 
+<!-- vim-markdown-toc GFM -->
+* [Installation](#installation)
 * [Toolbar buttons](#toolbar-buttons)
 	* [Play Button](#play-button)
 * [Cmd Variables](#cmd-variables)
