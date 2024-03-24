@@ -7,7 +7,7 @@
 # cmdMusicPlayerU.js
 ----------------
 
-Music player  (**Ubuntu**) @puutaro
+Music player @puutaro
 
 Table of Contents
 -------
